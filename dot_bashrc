@@ -1,5 +1,4 @@
 # .bashrc
-#Test 288/03/2023 Chezmoi
 # Source global definitions
 if [ -f /etc/bashrc ]; then
 	. /etc/bashrc
