@@ -9,7 +9,7 @@ zstyle :compinstall filename '/home/dale/.zshrc'
 
 autoload -Uz compinit
 compinit
-# End of lines added by compinstall!
+# End of lines added by compinstall
 
 # git aliases
 alias ref='sudo dnf upgrade && flatpak update && sudo fwupdmgr get-updates'
